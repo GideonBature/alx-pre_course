@@ -2,3 +2,5 @@ git fetch origin
 git checkout master
 git merge origin/master
 git push origin master
+
+git pull origin master
